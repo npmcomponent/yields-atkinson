@@ -1,0 +1,15 @@
+{
+  "name": "yields-atkinson",
+  "description": "atkinson can remember form input data across requests",
+  "version": "0.3.0",
+  "keywords": [
+    "atkinson",
+    "form",
+    "sisyphus"
+  ],
+  "dependencies": {
+    "component-value": "git://github.com/npmcomponent/component-value.git",
+    "yields-unserialize": "git://github.com/npmcomponent/yields-unserialize.git"
+  },
+  "license": "MIT"
+}

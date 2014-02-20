@@ -3,8 +3,8 @@
  * dependencies
  */
 
-var unserialize = require('unserialize')
-  , value = require('value');
+var unserialize = require('yields-unserialize')
+  , value = require('component-value');
 
 /**
  * Export `store`.
